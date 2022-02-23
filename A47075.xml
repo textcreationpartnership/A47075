@@ -1,0 +1,373 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An astrological speculation of the late prodigy. Or A clear discovery of the approaching miseries signified by that comet, or blazing star which hath so long been visible, to several countries and nations in November, December and January; in the year 1680. Being a full account of the manner or nature of its effects, and in what countries they'l be exhibited. Also the true way of judging the effects, of all other comets, and such apparitions, carefully collected from the best experimental judgments of the choicest aphorisms, and according to their fundamental, and methodical rules; now in a seasonable time manifested in a plain and homely stile; fit for the understanding of mean capacities. By Thomas Jones a lover of learning, and student in astrology; &amp; autodidactus.</title>
+            <author>Jones, Thomas, 1648-1713.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47075</idno>
+            <idno type="STC">Wing J990B</idno>
+            <idno type="STC">ESTC R219123</idno>
+            <idno type="EEBO-CITATION">99830645</idno>
+            <idno type="PROQUEST">99830645</idno>
+            <idno type="VID">35098</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47075)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35098)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2092:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An astrological speculation of the late prodigy. Or A clear discovery of the approaching miseries signified by that comet, or blazing star which hath so long been visible, to several countries and nations in November, December and January; in the year 1680. Being a full account of the manner or nature of its effects, and in what countries they'l be exhibited. Also the true way of judging the effects, of all other comets, and such apparitions, carefully collected from the best experimental judgments of the choicest aphorisms, and according to their fundamental, and methodical rules; now in a seasonable time manifested in a plain and homely stile; fit for the understanding of mean capacities. By Thomas Jones a lover of learning, and student in astrology; &amp; autodidactus.</title>
+                  <author>Jones, Thomas, 1648-1713.</author>
+               </titleStmt>
+               <extent>[6], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for the author, and are sold by him, in Pauls Alley, in Redcross-Street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title on p. 1: To know the significations or effects of comets or blazing stars by those following rules of art viz. ..</note>
+                  <note>With "Advertisements" for Jones's Welch almanacs on pp. 8-10.</note>
+                  <note>Reproduction of the original in St. Davids University College Library, Lampeter, Wales.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Astrology --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:35098:1" rendition="simple:additions"/>
+AN ASTROLOGICAL SPECULATION Of the late PRODIGY.</p>
+            <p>OR A Clear diſcovery of the approaching Miſeries ſignified by that Comet, or Blazing Star, Which hath ſo long been Viſible, to ſeveral Countries and Nations in <hi>November, December and January;</hi> in the Year 1680. Being a full account of the Manner or Nature of its Effects, and in what Countries they'l be Exhibited.</p>
+            <p>ALSO The true way of Judging the Effects, of all other Comets, and ſuch apparitions, carefully collected from the beſt experimental Judgments of the choiceſt Aphoriſms, and according to their Fundamental, and Methodical Rules; now in a ſeaſonable time manifeſted in a plain and homely Stile; fit for the underſtanding of mean ca<g ref="char:EOLhyphen"/>pacities.</p>
+            <p>By <hi>Thomas Jones</hi> a lover of Learning, and Student in Aſtrology; <hi>&amp; Autodidactus.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for the Author, and are ſold by him, in <hi>Pauls Alley,</hi> in <hi>Redcroſs-Street,</hi> 1681.</p>
+            <pb facs="tcp:35098:2"/>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:35098:2"/>
+            <head>To the Courteous Reader.</head>
+            <p>THough this be the third time I have preſented my Service and weak endeavours to thy uſe, yet is this the firſt time I have appeared in this language, or in this nature, as touch<g ref="char:EOLhyphen"/>ing Comets: I muſt confeſs that I never wiſhed from my heart, that my opinion in Judicious ways ſhould prove falſe and fail, until this time: But now I do heartily wiſh that I may be miſtaken therein: Here is nothing but miſchief and tribulation threatned, and truly had I not ſeen ſuch great miſchiefs and afflictions hanging over our heads for our ſins, I had at this time been ſilent: But ſince by theſe ſigns we are forewarned of approaching evils, I hold it not meet to be ſilent at ſuch a time; although I know it unlikely for any one in this way of writing to pleaſe all people: Yet I deſire, and hope that my honeſt en<g ref="char:EOLhyphen"/>deavours may not prove Offenſive to any. We find that the old Stu<g ref="char:EOLhyphen"/>dents in this way are very backward in publiſhing their Judgments on that wonderful Star, as we ſuppoſe, either becauſe they feared to err therein; or that it would incur the diſpleaſure of ſome one that might return them an unwelcome reward; therefore if I do err at my firſt ſtep on the Stage in this Judicious way, I hope I may be the more ex<g ref="char:EOLhyphen"/>cuſable, or if I ſpeak darker, or ſhorter than I might, I deſire alſo to be excuſed, in regard that the pleaſing of others to my own prejudice would avail me nothing. I had adventured to publiſh this ſmall Trea<g ref="char:EOLhyphen"/>tiſe of mine ſome months ſooner, had not my time been taken up in other concerns; the further we are from the time that the Star appeared, the nigher we are to the miſeries threatened by it. Therefore I think it not unſeaſonable to move the minds of ſinners to conſider it; and all that I ſhall now ſay to the purpoſe is no more mine than the Rules of the An<g ref="char:EOLhyphen"/>cients, and the words of my Authors. I have done nothing here with an intent to diſpleaſe any one: But if any will be offended without a cauſe let them not blame me but their own ill nature, that will be an<g ref="char:EOLhyphen"/>gry with me for endeavouring to pleaſe them. I am ſure there is none more diligent or willinger to pleaſe you, than</p>
+            <closer>
+               <signed>Your painful Servant, <hi>THO. JONES.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div n="friend to author" type="poem">
+            <pb facs="tcp:35098:3"/>
+            <head>To his Friend the Author</head>
+            <l>Among thoſe noble Souls that yearly write</l>
+            <l>Doſt thou appear, my Friend, and caſt thy mite?</l>
+            <l>Go on, and exerciſe thy pregnant wit,</l>
+            <l>There's them will venture that are not ſo fit;</l>
+            <l>Clearly to the World thy parts diſplay,</l>
+            <l>Which long lay clouded to this very Day.</l>
+            <l>I wiſh <hi>Urania</hi> had more ſuch Friends,</l>
+            <l>And leſs pretenders for their own ſelf ends.</l>
+            <l>Go on, <hi>Tho. Jones,</hi> Let the flowing Spring</l>
+            <l>That is in thee tell's News of every thing,</l>
+            <l>So ſhall thy Fame, when Death hath clos'd thine Eyes,</l>
+            <l>Extend his ſplendour to the ſpangled Skyes.</l>
+            <l>Not to commend the Author is the leaſt</l>
+            <l>Of all my thoughts, his work will do it beſt;</l>
+            <l>Nor yet to vex the prying Readers ſenſe</l>
+            <l>With humble words in ſtead of Eloquence<hi>:</hi>
+            </l>
+            <l>Herein I croud theſe rude unpoliſht lines</l>
+            <l>To inform the Reader of theſe Giddy times,</l>
+            <l>How much they are indebted, what they ow</l>
+            <l>To him who doth his Labour now beſtow;</l>
+            <l>And eke his skill that by his piercing ſight,</l>
+            <l>His bright example may give others light.</l>
+            <l>'Tis now a crime and quite grown out of faſhion</l>
+            <l>To encourage Art amongſt the Engliſh Nation;</l>
+            <l>Tell ſome of this, or other myſteries</l>
+            <l>They'l not regard it; but will ſoon deſpiſe</l>
+            <l>The Author and his works, tho'nere ſo good,</l>
+            <l>And this for not being better underſtood:</l>
+            <l>They'l not allow the Planets to fullfil,</l>
+            <l>As Inſtruments, Gods high Decree and Will;</l>
+            <l>Nay ſome there are that never will, nor can</l>
+            <l>Attain ſuch knowledge as belongs to man</l>
+            <l>What wondrous Volumes is there to Eſpie</l>
+            <l>In that moſt Various and bright ſhining Sky.</l>
+            <l>Bark black mouth'd envy, carp at what's well done,</l>
+            <l>His works ſhall be my choice companion.</l>
+            <pb facs="tcp:35098:3"/>
+            <l>The <hi>Welſh</hi> from Age to Age will give thee praiſe</l>
+            <l>For what thou'ſt done for them within thy daies;</l>
+            <l>When thou art dead thy Rules of Art will be</l>
+            <l>A Competent portion to Poſterity:</l>
+            <l>Through thine Induſtry, what they wanted long</l>
+            <l>Is now preſcribed in their own Native Tongue.</l>
+            <l>Thou haſt ſent forth thy Rules for them, to manage</l>
+            <l>Arts and Sciences in the <hi>Brittiſh</hi> Language.</l>
+            <l>Why take I Pen in hand to write thy Praiſe?</l>
+            <l>Why hold I Torch in clear bright ſhining Daies?</l>
+            <l>Had I the skill or wiſdom of <hi>Appollo,</hi>
+            </l>
+            <l>Or could I <hi>Tullies</hi> Eloquence but follow;</l>
+            <l>Yet ſtill ſhould I want words and wit to tell</l>
+            <l>Thy real worth how much thou doſt excell</l>
+            <l>And for that cauſe leaſt I detract from it</l>
+            <l>Ple ceaſe and make my humble Strain ſubmit.</l>
+            <closer>
+               <signed>W. R.</signed>
+            </closer>
+         </div>
+         <div n="invocation" type="poem">
+            <head>The Authors Imploration of Divine Aſſiſtance in this Work.</head>
+            <l>OHeavenly Father do me help,</l>
+            <l>Diſcloſe theſe Doubts to me;</l>
+            <l>Then vertue will not labour fear,</l>
+            <l>Nor yet the way, tho' hard it be.</l>
+            <l>With <hi>Aganippe</hi>'s wholeſom food</l>
+            <l>Repleniſh thou my daies,</l>
+            <l>Thy Temple eke to come unto,</l>
+            <l>Do thou direct my waies,</l>
+            <l>Defend me from the Common ſort</l>
+            <l>That ſeek me to diſpraiſe;</l>
+            <l>From Brutiſh Clowns deliver me,</l>
+            <l>Be thou my Guide alwaies;</l>
+            <l>Not worſe unlik't then ſhall I be,</l>
+            <l>If that thou wilt me bleſs,</l>
+            <l>That I, that's young and unknown, may</l>
+            <l>My ſelf to labour dreſs.</l>
+            <l>Thou lifteſt men from low Eſtate,</l>
+            <pb facs="tcp:35098:4"/>
+            <l>And doſt to honour great them call:</l>
+            <l>Without thy grace the wit of man</l>
+            <l>Would periſh ſoon and fall;</l>
+            <l>His voice and all would wax full hoarſe,</l>
+            <l>Nothing would ſweetly ſound,</l>
+            <l>All ſweet and pleaſant melody</l>
+            <l>Would fall unto the ground.</l>
+            <l>If thou wilt me favour now</l>
+            <l>I will aſcend the Skyes,</l>
+            <l>And there thy high and Goodly works</l>
+            <l>Conſider with mine Eyes;</l>
+            <l>Teach me figures fair to frame</l>
+            <l>Of ſundry ſorts in ſight,</l>
+            <l>That I may aſcend the Heavens high,</l>
+            <l>And bring hidden things to light.</l>
+            <closer>
+               <signed>T. J.</signed>
+            </closer>
+         </div>
+         <div type="excerpt_from_du_Bartas">
+            <l>HEre in the night appeared a flaming Spire</l>
+            <l>Like a fiery Dragon folded all in fire</l>
+            <l>A bright Comet with a fiery Stream</l>
+            <l>Or a flying Lance with a burning beam</l>
+            <l>Here appeared a horned Monſter, environ'd round</l>
+            <l>With fiery Flakes about the Air ſo bound</l>
+            <l>With a long bloody hair a blazing Star</l>
+            <l>Threatning the World with Famine, Plague and War</l>
+            <l>To Princes death, to Kingdoms many Croſſes,</l>
+            <l>To all Eſtates inevitable loſſes,</l>
+            <l>To Heards-men rot, to Plow-men hopeleſs ſeaſons,</l>
+            <l>To Sailors ſtorms, to Cities civil Treaſons.</l>
+            <closer>
+               <signed>Dubartas.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:35098:4"/>
+            <head>
+               <hi>To know the ſignifications or Effects of</hi> Comets or Blazing Stars <hi>by thoſe following Rules of Art</hi> viz.</head>
+            <head type="sub">
+               <hi>Firſt,</hi> By a figure erected on their firſt appearance. <hi>Secondly,</hi> By their poſition and motion in Signs. <hi>Thirdly,</hi> By their Colour and Complexion.</head>
+            <p>IN unfolding the ſignifications or Effects of <hi>Comets</hi> or <hi>Blazing Stars,</hi> I am forced here to make uſe of ſome terms of Art; be<g ref="char:EOLhyphen"/>ing ſuch words as every Reader is not acquainted with; yet for the better underſtanding and benefit of mean capacities I ſhall endeavour to Explain them as clear as I can, within the limitation of my liberty, and thus do I now adventure to ſpeak what I may to the purpoſe, wiſhing my ſelf one that might verifie thoſe Scripture words. Amos, 3, 7. <hi>Surely the Lord God will do nothing: But he revealeth his ſecrets unto his ſervants.</hi> Rev. 4, 1. <hi>I looked and be<g ref="char:EOLhyphen"/>hold a door was opened in Heaven, and the firſt voice which I heard was as it were of a Trumpet talking with me, which ſaid, come up hi<g ref="char:EOLhyphen"/>ther and I will ſhew thee things which muſt be hereafter.</hi> 14. 13. <hi>And I heard a voice from Heaven ſaying unto me write, bleſſed are the Dead,</hi> &amp;c.</p>
+            <p>It was ever counted by all Students in Aſtrology, the beſt and pro<g ref="char:EOLhyphen"/>pereſt way of Judging the effects of all Eclipſes, and Conjunctions of ponderous Planets by a figure erected on the exact time of their firſt appearance or coming together. Alſo for <hi>Comets or Blazing Stars</hi> if poſſible might be found the firſt time of their appearance or congealing together, I am ſure there is no Student in this way will deny, but this ſame way is beſt and propereſt to judge their effects alſo: Therefore I chuſe it my firſt rule to give my approbation of this <hi>Comet,</hi> by this figure erected on the time of its firſt appearance to <hi>England,</hi> or according to the firſt relation we had of it from <hi>Fal<g ref="char:EOLhyphen"/>mouth</hi> in <hi>Cornwel.</hi>
+            </p>
+            <figure>
+               <figDesc>Chart of the night sky, showing the position of the comet in relation to various constellations, as described in the text on pages 2-4, images 5-6</figDesc>
+            </figure>
+            <p>There are four waies to judg of Comets or Eclipſes by a figure of Heaven.</p>
+            <p n="1">1. By the nature of the Signs where they happen therein.</p>
+            <p n="2">2. By the nature, diſpoſition and poſition of the diſpoſer of them, or the Lord of the Sign where they ſhall happen.</p>
+            <p n="3">3. By the nature, diſpoſition and poſition of the Ruler of the Scheme, or the ſtrongeſt planet therein.</p>
+            <p n="4">4. By the nature and ſignification of the Houſes where they happen.</p>
+            <p>The firſt thing that we are to obſerve by this Scheme is the poſition of the Comet ſo near the Cuſp of the aſcendant and in the Sign <hi>Scorpio,</hi> the night Houſe of <hi>Mars,</hi> and of Nature Cold, watry, Nocturnal, Flegmatick, fixed, and Northern, Alſo near ſome fixed Stars of the Nature of ♂, ♄, and ☿.</p>
+            <p>According to theſe teſtimonies it threatens War and great alterati<g ref="char:EOLhyphen"/>ons in the World, animoſity about Religion, and Chiefly amongſt men of Martial Diſcipline.</p>
+            <p>
+               <pb n="3" facs="tcp:35098:5"/>
+Secondly, We are to conſider the poſition of the diſpoſer of the Comet in the tenth houſe and in the Houſe of ☿ and in partile conjunction with the Back of the Lyon, a fixed Star of the Nature of ♄, and ♍ in Nature cold, earthly, Melancholy, barren, Nocturnal.</p>
+            <p>By theſe Conſtellations it ſignifies, that much wit and policy will be uſed amongſt men, and with much buſineſs imployed about vile, Treacherous conſultations to corrupt and Stifle good Laws, and to change governments; by their plotting and invading of Nations, and if queſtioned for the ſame, they'l pretend to be as innocent as Lambs; and truly ſo they may as Romiſh Lambs, which are always of a more infernal quality, than heretick Lyons as they call them.</p>
+            <p>Thirdly we are to conſider the Nature, diſpoſition and poſition of the Ruler of this Scheme, or the Strongeſt Planet herein; as we find here <g ref="char:Moon">☽</g> and ♀ to be Strongeſt, and of an equal ſtrength alſo ♂ wants but one Teſtimony of their dignity and therefore ſeems to put in with them for a ſhare<hi>:</hi> Here we find <g ref="char:Moon">☽</g> Lady of the ninth poſited in the third Houſe, and afflicted with an <g ref="char:punc">▪</g> of ♄ retrograd in the ninth Houſe, a ſtrong argument that Religion will Suffer a great detriment by thoſe that never had any. Alſo ♃ being retrograd in the eighth Houſe, and af<g ref="char:EOLhyphen"/>flicted with a □ of ♂ from the Tenth Houſe, and with an oppoſition of ☿ his diſpoſer from the Second Houſe; an argument that Gentlemen or Perſons of quality in ſome Countries, for ſhewing themſelves active in regulating State Affairs, will come off with the loſs of their lives. ♀ although one of the ſtrongeſt Planets in the Scheme, ſeems not to be concern'd with any, neither of one ſide nor the other.</p>
+            <p>Fourthly, we are to conſider the nature and ſignification of the Houſe where this Comet is poſited, in, we find it within three degrees of the Cuſp of the aſcendant, and aſcending into the 12 Houſe which ſignifies much Sorrows, Tribulations, Impriſonment and all man<g ref="char:EOLhyphen"/>ner of afflictions effected by private enemies, alſo ſelf undoing to thoſe who malitiouſly undermine their Neighbours, and ſecretly invent falſe accuſations againſt them.</p>
+            <p>
+               <hi>Mr. Wm. Lilly</hi> in his guide to <hi>Aſtrologers</hi> gives us this account of Comets; A Comet immovable ſignifies Seditions; But this Com<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t was movable and very Swift in motion; ſuch he ſaid denotes foreign Wars, and one Nation invading another. A Comet in the 12 Houſe as this is, threatens great peſtilence and Scarcity of Corn.</p>
+            <div type="part">
+               <pb n="4" facs="tcp:35098:6"/>
+               <head>To know the ſignification or Effects of this Comet by its moving in Signs.</head>
+               <p>This Comet whilſt it appeared to us had its tranſitory motion through theſe Signs, ♏. ♐. <g ref="char:punc">▪</g>. ♒. ♓. ♈.</p>
+               <p>A Comet or a Blazing Star in ♏ threatens many wicked actions among men, as Wars, Contentions, Controverſies, Alterations and Changes in the World, and chiefly among men of Martial diſcipline, alſo ſcarcity of Waters, and ſcarcity of the Fruits of the earth, and famine.</p>
+               <p>In ♐ it denotes evil to great men, Controverſies about Religion and Laws, alſo feavers and other dangerous diſeaſes.</p>
+               <p>In <g ref="char:punc">▪</g> they foreſhew many inhuman actions as Murders, Maſſacres, Wars, Death to great men by poyſon or other Violent means, per<g ref="char:EOLhyphen"/>ſecution of many for Religion, and contempt of Religion it ſelf, plague and famine in many places. Great Froſts, Snow, Hail, trou<g ref="char:EOLhyphen"/>bles and calamities to moſt ſort of people.</p>
+               <p>In ♒ a Comet or Blazing Star ſignifies long laſting Wars, Ter<g ref="char:EOLhyphen"/>rible Slaughters of men; alſo a great mortality by a Sweeping peſtilence, dark obſcure Air, great Winds; Much Thunder and Lightning.</p>
+               <p>In ♓ they ſignifie much Strife and contention about Religion, diviſion among Relations, and former friends, great troubles amongſt great and potent perſons.</p>
+               <p>In ♈, a Comet or Blazing Star is the forerunner of much miſchief, as Wars, dreadful fires; The ruining of Cities and Towns by Treachery; The death of many eminent Commanders: Sharp diſeaſes in the heads of People.</p>
+            </div>
+            <div type="part">
+               <head>To know the ſignifications or Effects of this Comet by its Colour and Complexion.</head>
+               <p>The Colours of this Star hath been ſo various as to repreſent at ſome times the complexion of all theſe four Planets <hi>viz.</hi> ♄, ♃, ♂, ☿, therefore we may conjecture its effects to be according to the Nature of the ſaid Planets, which is as followeth.</p>
+               <p>A comet or Blazing Star of the Nature of ♄, ſignifies many frights and fears among People, murmuring and repining, Exile or Baniſh<g ref="char:EOLhyphen"/>ment to many; ſcarcity of food, penury, grievous Sickneſſes, tem<g ref="char:EOLhyphen"/>peſtuous
+<pb n="5" facs="tcp:35098:6"/>
+Winds, Shipwracks, great Froſts and Snows, a deſtruction of Fruit by Worms.</p>
+               <p>Of the Nature of ♃, denotes much Strugling amongſt men for matters of Religion, Laws and priviledges.</p>
+               <p>Of the Nature of ♂, it Threatens much Wars, Quarrels, Sea-fights, Blood-ſhed, great ſlaughters, Maſſacres in ſome places; Change of Governors and Government, Peſtiferous Winds, Terrible Thunder and Lightnings, Tempeſts, Ship-wracks, much Robbery by Sea and Land, Exceſſive hot weather at ſome times drying up Rivers and Fountains, Scarcity of the Fruits of the Earth: The burning of Towns and Cities, and violent feavers amongſt the People.</p>
+               <p>Of the Nature of ☿, They ſignifie much Wit and Policy among men, and as much buſineſs to imploy it about, many ſlie and evil conſultations, and Chiefly among men of Learning; Corrupting of of Laws, falſe Doctrine deluding the People in ſome Countries; alſo ſcarcity of Food, and Famine.</p>
+               <p>All theſe forementioned miſeries, and Calamities are by this Comet threatened to the World in ſome parts or other.</p>
+            </div>
+            <div type="part">
+               <head>To know in what parts of the World the Effects of this Comet will be Exhibited.</head>
+               <p>It hath plainly appeared to the ſtudents in this Art that the Eclipſes of the Luminaries, the Conjunctions of ponderous Planets, The Comets or Blazing Stars have operated their Effects in thoſe Coun<g ref="char:EOLhyphen"/>tries or Nations, ſubject to the Signs where they happen therein.</p>
+               <p>This Comet made its progreſs as before mentioned, through theſe Six Signs <hi>viz.</hi> ♏, ♐, <g ref="char:punc">▪</g>, ♒, ♓, ♈, and therefore according to the rule of Art, and the experiences of the Ancients, we muſt expect that the Effects of this Comet will be manifeſted with ſome of the forementioned miſchiefs in all thoſe Countries Governed under thoſe Signs which he paſſed through.</p>
+            </div>
+            <div type="part">
+               <head>A Catalogue of thoſe Countries I ſhall give as followeth.</head>
+               <p>Under ♏ are governed theſe Countries. The North part of <hi>Ba<g ref="char:EOLhyphen"/>varia,</hi> The Woody part of <hi>Norway, Barbary,</hi> The Kingdom of <hi>Fez, Cattalonia</hi> in <hi>Spain, Valentia, Vrbine</hi> and <hi>Forum Julij</hi> in
+<pb n="6" facs="tcp:35098:7"/>
+                  <hi>Italy, Vienna, Meſſina</hi> in <hi>Italy, Gaunt, Frankford</hi> upon <hi>Odar.</hi>
+               </p>
+               <p>Under ♐ are Governed the Countries of <hi>Spain, Hungary, Sla<g ref="char:EOLhyphen"/>vonia, Moravia, Dalmatia, Buda</hi> in <hi>Hungary, Toledo, Narbon, Cullen, Stargard.</hi>
+               </p>
+               <p>Under <g ref="char:punc">▪</g>, are Governed theſe Kingdoms, Countries and Cities, <hi>Thrace, Macedon</hi> in <hi>Greece,</hi> New <hi>Turkey, Albania, Bulgaria, Saxony</hi> the South-weſt part, Weſt <hi>Indies, Stiria,</hi> the <hi>Iſles Orcades, Haſſia, Oxford, Mecklin, Cleves, Brandeburg.</hi>
+               </p>
+               <p>Under ♒ are Governed theſe Kingdoms, Countries and Cities, <hi>Tartary, Croatia, Valachia, Muſcovia, Weſtphalia</hi> in <hi>Germany, Piemont</hi> in <hi>Savoy,</hi> the Weſt and South parts of <hi>Bavaria, Media, Arabia, Hamborough, Breme, Montferrat</hi> and <hi>Piſaurum</hi> in <hi>Italy, Trent, Ingolſtad,</hi>
+               </p>
+               <p>Under ♓ are Governed theſe Kingdoms Countries and Cities, <hi>Calabria</hi> in <hi>Sicilia, Portugal, Normandy,</hi> the North of <hi>Egypt, Alexandria, Rhemes, Wormes, Ratisbone, Compoſtella.</hi>
+               </p>
+               <p>Under ♈ are Governed theſe Kingdoms, Countries and Cities, <hi>Germany, Swevia, Polonia, Burgundy, France, England, Den<g ref="char:EOLhyphen"/>mark, Sileſia</hi> the higher, <hi>Judea, Syria, Florence, Capua, Na<g ref="char:EOLhyphen"/>ples, Ferrara, Verona, Vtrecht, Marſelles, Auguſta, Ceſarea, Padua, Bergamo.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <p>The demonſtrations of this Comet hath been ſo large, that I think it needleſs to trouble the ingenious Lover of Arts, with my farther Treatiſe on the ſignifications of Comets or Eclipſes, that may happen in other ſigns of the <hi>Zodiack;</hi> or in any other Houſe of the Scheme, or of any other Colour or Complexion.</p>
+               <p>Now finding our approaching woes to be many, and threatned to many parts of the World; and the greateſt teſtimonies herein denotes, That terrible and Cruel miſchiefs will be done about matters of Religion<hi>:</hi> The conſideration of it moves me to pray heartily to God, that I may not live to ſee thoſe days, which the holy man Biſhop <hi>Uſher</hi> foreſaw through inſpiration, as he ſaid with his eyes lifted up to Heaven and the tears running down his Checks, That his thoughts were taken up about the miſeries and perſecutions that were coming upon all the Proteſtant Churches of Chriſt through all <hi>Europe,</hi> which would be ſo ſharp and bitter that the contemplation of them, had fetched the tears from his Eyes, and that it would be done by the hands of Papiſts, and in the way of a ſudden Maſſacre: And that the
+<pb n="7" facs="tcp:35098:7"/>
+then Pope would be the Chiefeſt inſtrument of it; Therefore take head (ſaid he) that you be not found ſleeping and unprepared; for it is even at the door: Where we Suppoſe his meaning was that we ſhould be prepared to die; or elſe he ſaw it a ſeaſonable time to demon<g ref="char:EOLhyphen"/>ſtrate unto us the Words of a Prophet, <hi>Joel</hi> 3. 10. <hi>Beat your Plough<g ref="char:EOLhyphen"/>ſhears into Swords, and your pruning hooks into Spears, let the weak ſay I am Strong.</hi> He ſaid alſo that there would be one great difference be<g ref="char:EOLhyphen"/>tween this approaching perſecution and thoſe already paſt: For in the former the moſt eminent and Spiritual Miniſters, and Chriſtians did generally Suffer moſt and were moſt violently fallen upon: But in this approaching perſecution, the beſt of People will be preſerved by God as a ſeed to partake of that glory which ſhall immediately follow and come upon the Church, aſſoon as ever that Storm ſhall be over. For as it ſhall be the ſharpeſt, ſo it ſhall be the ſhorteſt Perſecution of them all, and ſhall only take away the Groſs Hypocrites and formal Profeſſors, But the true Spiritual believers ſhall be preſerved till the Calamity be over paſt.</p>
+               <p>
+                  <hi>Bleſſed is he that readeth, and they that hear the words of this Prc<g ref="char:EOLhyphen"/>phecy, and keep thoſe things which are writen herein, for the time is at hand, Rev.</hi> 1. 3.</p>
+               <p>Since that God hath been pleaſed to foreſhew us his approaching judgment, by a token of his fierce anger fixed in the Heavens as a torch or a fiery Sword, viſible to many ſinners that would not be<g ref="char:EOLhyphen"/>hold the brightneſs, and beauty of his Laws, and Statutes; Now ſeeing that the Sword of God, is ready drawn and haſtening to deſtroy and weed the World of the rebellious People, who went on raging in no leſs diſobedience, than if they had proclaimed open Wars againſt God. It is now high time for them to awake out of Sleep, and conſider and lay to heart, how near they are to fall over the brink of their pleaſures, and how dreadful a condition they'l be in; when their deſerved calamities ſhall overtake them, as <hi>Solomen</hi> tells us, <hi>Eccl.</hi> 9. 12. <hi>Man knoweth not his time; as the Fiſhes that are taken in an evil net; and as the Birds that are caught in a Snare: ſo are the Sons of Men ſnared in an evil time, when it falls ſuddenly upon them.</hi> Let us Praiſe His Clemency, who, ſeeing we are ſinners, reprov<g ref="char:EOLhyphen"/>eth our Sluggiſhneſs, by theſe Signs. When God goeth about to puniſh a City or Nation, he is pleaſed firſt to foreſhew it with Signs and wonders; therefore let us fear the maker of this Comet,
+<pb n="8" facs="tcp:35098:8"/>
+and not the Comet it ſelf; whoſoever feareth God let him ſay with <hi>David, Come and ſee the works of the Lord, how terrible he is in his doings towards the Children of Men, Pſal.</hi> 66. 5. Now that Gods wonderful works would Surprize us with ſuch fear as may lead us unto God himſelf is the hearty Prayers of</p>
+               <closer>
+                  <signed>T. J.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="notices">
+            <head>ADVERTISEMENTS</head>
+            <div type="author_to_booksellers">
+               <head>
+                  <hi>To all</hi> Bookſellers <hi>and all other Dealers that deal or ſhall deal in</hi> Welch <hi>Almanacks within the Kingdom of</hi> England <hi>and the Do<g ref="char:EOLhyphen"/>minion of</hi> Wales.</head>
+               <opener>
+                  <salute>Gentlemen,</salute>
+               </opener>
+               <p>I Thought I had mentioned enough in the Epiſtle of my Almanack for the year 1681. to acquaint all that could read <hi>Welch,</hi> that the whole Liberty and Licence of making, and ſetting forth of Welch-Almanacks, belongs to my ſelf only, being ſetled upon me, by his Majeſties Pattent, and favour; Alſo by Covenanting with the Com<g ref="char:EOLhyphen"/>pany of Stationers of the City of <hi>Lon<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>n</hi> for the full time of my na<g ref="char:EOLhyphen"/>tural life; Notwithſtanding all this, ſeveral dealers in North<hi>-Wales</hi> have preſumed to deal and traffick with another Welch-Almanack made by another perſon, which was not diſcovered to me, until the time of ſale was over, or elſe they that dealt in them had been better acquainted with me before this time: Had I any way been de<g ref="char:EOLhyphen"/>ceitful or unkind to my Country, either in not taking care and pains to write as near the truth as another could by rule of Art; or in hold<g ref="char:EOLhyphen"/>ing the rates of my books higher than Ordinary, or above the Com<g ref="char:EOLhyphen"/>mon price of others; they might have had ſomething to ſay for themſelves; But ſeeing that I have firſt manifeſted my love, and re<g ref="char:EOLhyphen"/>ſpect to my Country, in letting them enjoy plenty of that which none
+<pb n="9" facs="tcp:35098:8"/>
+other would under take for their ſake, until I ſhewed them the way, and that I have alſo ſold them at as eaſie rates as any one could afford them, I cannot conceive what intereſt or reaſon ſhould any one have in ſtifling my endeavours, unleſs it be to ſhew their voluntary diſobe<g ref="char:EOLhyphen"/>dience towards the King and his Laws. I thought fit once more to repeat unto you in publick Print as I told you before, that the whole liberty and licence of making, and ſetting forth of Almanacks in the Welch-tongue is ſetled upon my ſelf alone, all the days of my life by his Majeſty, and by the Company of Stationers of the City of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> and they ſtraitly charge, command and prohibit, all other Writers, Printers, Book-ſellers and all other dealers, and all Sub<g ref="char:EOLhyphen"/>jects whatſoever, that they nor any of them at any time or times, ſhall not Print, nor cauſe to be Printed, nor receive from any parts beyond the Seas, any other Almanack or Almanacks, nor yearly Calender of what title ſoever in the Welch-tongue, but what is written and ſet forth by me, during my natural life. Having thus far certified you of the truth, had it been untruth I durſt not have publiſht it in Print, there<g ref="char:EOLhyphen"/>fore I deſire and adviſe you, not to abuſe him who never abuſed you, and who hath alſo ſhewed his beſt endeavours to ſerve you for your good, but if any do hereafter during the time before mentioned, deal, trade or traffick in the aforeſaid prohibited goods, I do here<g ref="char:EOLhyphen"/>by aſſure them, that I will ſpeedily come my ſelf, or ſend my Order; not onely to ſeiſe on the goods, but alſo on them that Traffick in them, and will proceed againſt them according to Law, and not only my ſelf alone, but alſo the Company of Stationers of the City of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> as they are bound in Articles to it, will aſſiſt me in proſecuting and ſubdewing of all them. It may be that ſome will be loath to let the Country enjoy the benefit of this ſmall Book for fear it ſhould diſ<g ref="char:EOLhyphen"/>cover their former tranſgreſſions: to thoſe I ſay that they ſhall not be queſtioned for what is already paſt, unleſs they ſhew their unkind<g ref="char:EOLhyphen"/>neſs in ſtifling of this alſo. I hope there is none that can take of<g ref="char:EOLhyphen"/>fence at what I have written here unto them. I am ſure that no rational man will be angry at me for forewarning him of the dan<g ref="char:EOLhyphen"/>ger that might befall him. But if any one be ſo reſolute as to diſre<g ref="char:EOLhyphen"/>gard forewarning, and do what may cauſe him to repent of, let him not blame me but himſelf, as for my further information I ſhall re<g ref="char:EOLhyphen"/>fer it to the reader as followeth.</p>
+            </div>
+            <div type="author_to_the_reader">
+               <pb n="10" facs="tcp:35098:9"/>
+               <head>Faithful Reader,</head>
+               <p>WHoſoever thou art that haſt received any benefit or pleaſure by a <hi>Welch</hi> Almanack, thou art heartily deſired by him that made it firſt for thy ſake, that thou wilt not conceal from him the abuſes put upon him by Such as preſume illegally to ſcatter abroad their ſeditious Libels under the Title of a <hi>Welch</hi> Almanack, meerly for the Lucre of thy money, at what time ſoever hereafter thou ſhalt ſee or underſtand that any Bookſellers, Shopkeepers, Ped<g ref="char:EOLhyphen"/>lers, or any one elſe whatſoever do deal or traffick by retayl or whole<g ref="char:EOLhyphen"/>ſale in any other <hi>Welch</hi> Almanack or yearly <hi>Calender</hi> in the <hi>Welch</hi> Tongue beſides mine; My humble requeſt is that thou wouldſt be pleaſed to ſhew me ſo much favour as to ſend me a ſpeedy account of it: <hi>viz,</hi> the name of him or her that ſelleth them, and the Town or Village where he or ſhe lives in, in a letter directed to me in <hi>Pauls Allcy</hi> in <hi>Redcroſs-Street, London.</hi>
+               </p>
+               <p>To him or her that will give me the firſt information of the above mentioned, I do hereby promiſe and engage my ſelf to pay unto him or her the full Sum of 20<hi>s.</hi> in Lawful money for his reward, and that within three weeks after I receive his letter, and to defend him from the ill will and malice of his neighbours, I will ſend him my direction and Order to receive the ſaid 20<hi>s.</hi> about 15 miles from his home, or in what Town himſelf ſhall deſire it, that his neigh<g ref="char:EOLhyphen"/>bours may not know the diſcoverer thereof.</p>
+            </div>
+            <div type="author_to_booksellers">
+               <head>TO all Dealers that deal or ſhall deal with <hi>John Braynton,</hi> or <hi>John Jackſon</hi> partners and <hi>Haberdaſhers</hi> of ſmall Ware, at the ſign of the <hi>George</hi> in <hi>Cateaten Street, London.</hi>
+               </head>
+               <p>TO prevent your diſappointment of Welch-Almanacks by writing for them to the foreſaid <hi>John Braynton,</hi> or <hi>John Jackſon,</hi> I thought fit to acquaint you that the ſaid <hi>John Braynton,</hi> and <hi>John Jackſon,</hi> ſhall not henceforth Correſpond any farther with me, and that, becauſe I was forced to ſue to an Execution before I could recover my Money for the parcels of my firſt Almanacks which they had of me to furniſh their Country Cuſtomers.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
